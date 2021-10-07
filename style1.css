@@ -1,0 +1,38 @@
+.img1{
+				width: 80px;
+}
+
+.img2{
+				width: 80px;
+				margin- left: 150px;
+}
+
+.img_div{
+				margin: 8px;
+				background-color: aqua;
+}
+
+.left_part{
+				width: 500px;
+}
+
+.left_part1{
+				background-color: aqua;
+}
+
+
+a{
+				background-color: white;
+				padding: 5px;
+				border-radius: 5px;
+}
+
+input{
+				background-color: aqua;
+				border-radius: 5px;
+}
+
+footer{
+				margin: 8px;
+				background-color: aqua;
+}
